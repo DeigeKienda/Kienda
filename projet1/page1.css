@@ -1,0 +1,94 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+p{
+    color: black;
+}
+
+td,th{
+    border: solid  chocolate;
+}
+a{
+    color: darkblue;
+    text-align: left;
+    font-style: italic;
+}
+  
+#Page{
+   border: solid 1px;
+   border-radius: 2px ;
+background-image: url(../MIMA\ 3.jpeg);
+}
+td{
+    background-color: chartreuse;
+}
+
+th{
+    background-color: rgb(88, 8, 238);
+    
+}
+#H2{
+    color: rgb(211, 203, 203);
+    background-color: darkslategray;
+    text-align: center;
+}
+.Im1{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+  
+}
+.Im2{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+.table1{
+    border-collapse: collapse;
+}
+.div1{
+    border: solid px;
+  
+}
+.div2{
+    float: left;
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+}
+.foot{
+    text-align: center;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    background-color: chartreuse;
+}
+.Lydie10{
+
+    height: 150px;
+    width: 150px;
+    border-radius: 50px;
+
+}
+.Lydie11{
+    height: 150px;
+    width:150px;
+    border-radius : 50px;
+
+ 
+}
+.Lydie12{
+    height: 150px;
+    width: 150px;
+    border-radius: 50px;
+}
+.divi{
+    border: solid;
+    float: center;
+
+}
+.F1{
+    border-color: magenta;
+}

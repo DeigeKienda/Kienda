@@ -1,0 +1,26 @@
+body{
+    background-image: url(../MML.jpg);
+    background-size: cover;
+}
+h1{
+    font-size: 80px;
+    font-weight:100px;
+    font-style: italic;
+    text-align: center;
+    color: rgb(7, 248, 47);
+}
+.fiel{
+    color: rgb(252, 14, 240);
+    font-size: 30px;
+    font-weight: 100px;
+}
+.fie{
+    color: rgb(247, 11, 168);
+    font-size: 30px;
+    font-weight: 100px;
+}
+a{
+    color: rgb(255, 13, 49);
+    font-style: italic;
+    font-weight: 2px;
+}
